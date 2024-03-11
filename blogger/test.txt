@@ -1,0 +1,12 @@
+app_api
+app_client
+app.js
+app_server
+bin
+node_modules
+nohup.out
+package.json
+package-lock.json
+public
+show
+test.txt
